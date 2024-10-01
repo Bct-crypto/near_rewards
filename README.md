@@ -1,4 +1,4 @@
-# near_rewards
+# near_test
 
 Small console application to check the staking rewards for ~~lockup~~ accounts on [NEAR protocol](https://near.org)
 
